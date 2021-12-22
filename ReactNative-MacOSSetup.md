@@ -12,10 +12,10 @@ The instructions are quite different for each development and target operating s
 
 Due to this, I will divide this explanation into 2 parts:
 
-1. **Windows Operator**
+1. **Windows Operator** (Coming soon!)
 2. **MacOS Operator**
 
-In this tutorial, I shall introduce you to the following major steps you will need to take in order to set up your react-native environment. Starting with **MacOS** targetting the **IOS** platform
+In this tutorial, I shall introduce you to the following major steps you will need to take in order to set up your react-native environment. Starting with **MacOS** targeting the **IOS** platform
 
 ---
 
