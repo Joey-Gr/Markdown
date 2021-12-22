@@ -58,6 +58,8 @@ After that, install react-native-cli :
 
 You are now ready to get into coding with React Native !
 
+---
+
 ### **Device Setup**
 
 Now that you've got both node and npm. You should install Xcode (Last install I promise!). You can find a list of Xcode releases [Here](https://xcodereleases.com). Choose the one that has the latest most stable version for your MacOS version.  
@@ -71,6 +73,8 @@ Start downloading your Xcode version, it's going to take a while...
 Once you have Xcode installed and opened. Go to **Xcode > Preferences** and choose the latest simulator version (version 11x at least). Start downloading it.
 
 You are now ready to run your simulator !
+
+---
 
 ### **Project Creation**
 
