@@ -27,8 +27,8 @@ In this tutorial, I shall introduce you to the following major steps you will ne
 
 ### **The Installation Process**
 
-You will need to first install node and npm. In this tutorial, we'll be using a Package Manager called "[Homebrew](https://brew.sh/index)" to install these packages, 
-go to your MacOS terminal and type in :
+You will need to first install node and npm. In this tutorial, we'll be using a Package Manager called "[Homebrew](https://brew.sh/index)".  
+To install these packages, go to your MacOS terminal and type in :
 
 ```powershell
  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
