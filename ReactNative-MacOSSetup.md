@@ -61,7 +61,7 @@ You are now ready to get into coding with React Native !
 
 ### **Device Setup**
 
-Now that you've got both node and npm. You should install Xcode. You can find a list of Xcode releases [Here](https://xcodereleases.com). Choose the one that has the latest most stable version for your MacOS version.  
+Now that you've got both node and npm. You should install Xcode. (Android Studio's process is a bit different) You can find a list of Xcode releases [Here](https://xcodereleases.com). Choose the one that has the latest most stable version for your MacOS version.  
 In order to check what MacOS version you have, you must go to the "About This Mac" menu, as indicated below :
 
 ![About This Mac](/assets/img/mac-check1.jpg)
